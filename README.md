@@ -55,7 +55,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-Husen)](https://github.com/Sahil-Husen/github-readme-stats)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sahil-Husen&repo=github-readme-stats)](https://github.com/Sahil-Husen/github-readme-stats)
 
  
  </p>
