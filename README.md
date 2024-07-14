@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with anyone on any project.
 
-- 💬 Ask me about **Web Development, etc.**
+- 💬 Ask me about **Web Development, Frontend, Animation, GSAP etc.**
 
 - 📫 You can reach me at **sahilhussainsahil76@gmail.com**
 
@@ -51,6 +51,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RazaALi0786)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaALi0786&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahilhusen&show_icons=true)](https://github.com/SahilHusen/github-readme-stats&show_icons=true)
 
  </p>
  
