@@ -51,9 +51,9 @@
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sahil-Husen)](https://git.io/streak-stats)
 
-<img alt="mystats"  (https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Husen&layout=compact)/> 
+<img alt="mystats" align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Husen&layout=compact"/> 
 
-<img alt="mystats" (https://github-readme-stats.vercel.app/api?username=Sahil-Husen)](https://github.com/Sahil-Husen/github-readme-stats)/>
+<img alt="mystats"  align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=Sahil-Husen"/>
 
  </p>
  
