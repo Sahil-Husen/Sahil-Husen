@@ -51,7 +51,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RazaALi0786)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sahil-Husen)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaALi0786&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
