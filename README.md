@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I love playing games and going to gym because it helps me clear my mind.**
 
-- 📝 [Resume](https://drive.google.com/file/d/1p022DfCwumyfmcxE5HUkLRTUeXzrkUg5/view?usp=drive_link)
+- 📝 [Resume](https://drive.google.com/file/d/15p9ILSW69XNqlaJ3TP--4f_B_1M-dStA/view?usp=drive_link)
 
 ## :email: Find me on:
 
