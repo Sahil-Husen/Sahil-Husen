@@ -2,19 +2,18 @@
    <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href=# target="_blank">Sahil Husen</a>. Nice to see you.🤗 </h1> 
    <br> 
    
-   # Web-Developer Sahil-Husen.
+   # Full Stack Developer Sahil-Husen.
 
  Hey there, I'm a Frontend Engineer. | ![](https://komarev.com/ghpvc/?username=Sahil-Husen&label=Profile%20views&color=0e75b6&style=flat)  
 
-# Currently pursuing Bachelors in Computer Science & IT from Khwaja Moinuddin Chishti Language University, Lucknow, India
+# MCA @AMU, Aligarh, India
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="385" height="290" />
 
-- 🚀 Right now, I am trying to gain a good command over React, Web Development and Java.
+- 🚀 Currently working on improving my expertise in **React.js**, **Web Development**, and **Java**.  
+- 👯 Open to collaborating on exciting and impactful projects.  
+- 💬 Feel free to reach out if you want to discuss **Web Development**, **Frontend Engineering**, **Animations**, or **GSAP**.  
 
-- 👯 I’m looking to collaborate with anyone on any project.
-
-- 💬 Ask me about **Web Development, Frontend, Animation, GSAP etc.**
 
 - 📫 You can reach me at **sahilhussainsahil76@gmail.com**
 
