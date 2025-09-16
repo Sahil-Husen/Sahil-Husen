@@ -52,7 +52,7 @@
 <p align="center">
  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sahil-Husen&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sahil-Husen)](https://git.io/streak-stats)
 
 <img alt="mystats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Husen&layout=compact"/> 
 
