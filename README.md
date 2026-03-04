@@ -87,7 +87,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Sahil-Husen/Sahil-Husen/blob/output/github-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Sahil-Husen/Sahil-Husen/blob/output/dist/github-snake.svg" />
 </p>
 
 ---
