@@ -82,15 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Husen&show_icons=true&theme=default" width="50%" />
 </p>
  
-
----
-
-## 🐍 Contribution Snake
-
- 
-
- 
-
 ## 🐍 Contribution Snake
 
 <p align="center">
