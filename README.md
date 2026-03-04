@@ -81,11 +81,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Husen&layout=compact&theme=default" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Husen&show_icons=true&theme=default" width="50%" />
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake.svg" />
-</picture>
+ 
 
 ---
 
@@ -95,8 +91,14 @@
 
  
 
+## 🐍 Contribution Snake
+
 <p align="center">
-<img src="https://github.com/Sahil-Husen/Sahil-Husen/blob/output/github-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
