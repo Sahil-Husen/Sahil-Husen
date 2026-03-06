@@ -73,13 +73,13 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sahil-Husen&theme=default&hide_border=true"/>
-</p>
+</p> -->
 
+<!-- Use streak stats as backup -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Husen&layout=compact&theme=default" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Husen&show_icons=true&theme=default" width="50%" />
+  <img  src="https://streak-stats.demolab.com?user=Sahil-Husen&theme=default)](https://git.io/streak-stats"/>
 </p>
  
 ## 🐍 Contribution Snake
