@@ -79,7 +79,7 @@
 
 <!-- Use streak stats as backup -->
 <p align="center">
-  <img  src="https://streak-stats.demolab.com?user=Sahil-Husen&theme=default)](https://git.io/streak-stats"/>
+  <img src="https://streak-stats.demolab.com?user=Sahil-Husen&theme=white&hide_border=true&v=2" alt="GitHub Streak"/>
 </p>
  
 ## 🐍 Contribution Snake
