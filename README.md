@@ -1,97 +1,66 @@
-<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="300" alt="hello-gif" />
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40" />
-  I'm <a href="#" target="_blank">Sahil Husen</a> 👋 
-</h1>
+<h1 align="center">Hi, I'm Sahil Husen 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Frontend Engineer | Java Enthusiast</b>  
+  Full Stack Developer &nbsp;•&nbsp; Frontend Engineer &nbsp;•&nbsp; Java Enthusiast
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sahil-Husen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<br/>
 
-## 🧑‍🎓 MCA @AMU, Aligarh, India
+## About Me
 
-<img align="right" alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="385" height="290" />
+🎓 MCA @ AMU, Aligarh, India
 
-### 🚀 Currently Working On:
-- Deepening expertise in **React.js**, **Web Development**, and **Java**
-- Learning and exploring **modern frontend animations with GSAP**
-- Building **real-world full-stack projects**
+- 🚀 Currently deepening my skills in **React.js**, **Web Development**, and **Java**
+- 🎨 Exploring **modern frontend animations** with GSAP and Anime.js
+- 🏗️ Building **real-world full-stack projects**
+- 🤝 Open to collaborating on frontend / full-stack projects, UI/UX-focused websites, and React/Node tools
+- 💬 Happy to talk about frontend engineering, animations, or career advice in web dev
+- ⚡ Fun fact: I love gaming and going to the gym — it's how I reboot my mind
 
-### 👯 Open for Collaboration:
-- Frontend / Full Stack Projects
-- UI/UX focused Websites
-- React/Node based Tools & Apps
+<br/>
 
-### 💬 Let’s Talk About:
-- Frontend Engineering & React.js
-- Animations with GSAP & Anime.js
-- Career Advice in Web Dev
+## Get in Touch
 
-### 📫 Reach Me At:
-- 📧 Email: **sahilhussainsahil76@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/15p9ILSW69XNqlaJ3TP--4f_B_1M-dStA/view?usp=drive_link)
+📧 [sahilhussainsahil76@gmail.com](mailto:sahilhussainsahil76@gmail.com) &nbsp;|&nbsp; 📄 [Resume](https://drive.google.com/file/d/15p9ILSW69XNqlaJ3TP--4f_B_1M-dStA/view?usp=drive_link) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-hussain-5a5488254/)
 
-### ⚡ Fun Fact:
-> I love playing games and going to the gym — it's my way to reboot my mind.
+<br/>
 
----
-
-## 🌐 Connect with Me:
+## Languages & Tools
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sahil-hussain-5a5488254/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28" height="28" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" height="28" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code"/>
 </p>
 
----
+<br/>
 
-## 🛠️ Languages & Tools:
+## GitHub Stats
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sahil-Husen&theme=default&hide_border=true"/>
-</p> -->
-
-<!-- Use streak stats as backup -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sahil-Husen&theme=white&hide_border=true&v=2" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Sahil-Husen&theme=default&hide_border=true" alt="GitHub Streak" width="480"/>
 </p>
- 
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Sahil-Husen/Sahil-Husen/output/github-snake.svg" />
   </picture>
 </p>
 
----
+<br/>
 
-> _“Strive for progress, not perfection.”_
+<p align="center"><i>"Strive for progress, not perfection."</i></p>
